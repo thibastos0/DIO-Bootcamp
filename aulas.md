@@ -104,5 +104,86 @@ Utilizadas para repetir um trecho de código por um determinado (conhecido previ
 
 |Arquivo|Descrição|
 |:-----:|:-----|
-|*indentacao_blocos.py* | Comando `for` é usado para percorre um objeto iterável (exemplo: `str`, `list` etc.). Usar quando é conhecido o núme exato de vezes que o bloco será executado ou quando queremos percorrer um objeto iterável.|
-|||
+|*estrutura_repeticao_for.py* | Comando `for` é usado para percorre um objeto iterável (exemplo: `str`, `list` etc.). Usar quando é conhecido o número exato de vezes que o bloco será executado ou quando queremos percorrer um objeto iterável.|
+*estrutura_repeticao_while.py* | Comando `while` é usado para repetir um bloco várias vezes e pincipalmente quando esse número exato de vezes é desconhecido.| 
+*estrutura_repeticao_break.py* | Com exemplos dos comando `break` e `continue`.|
+
+## Atividade 05
+**Manipulando Strings com Python**
+
+- Conhecendo métodos úteis da classe string
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*string_1.py* | Conhecer métodos úteis.|
+|*string_2.py* | Como interpolar valores de variáveis (exemplos: `%`, método `format` e utilizando `f` strings).|
+|*string_3.py* | Entendendo o funcionamento do fatiamento (start, stop e step).|
+|*string_4.py* | String triplas (`''' '''` ou `""" """`) para preservar formatação.|
+
+## Atividade 06
+**Trabalhando com Listas em Python**
+
+Armazenamento sequencial de qualquer tipo de objeto, podendo alterar seus valores após a criação.
+
+- Criação e Acesso aos dados
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*estrutura_listas.py* | Exemplos de criação, como acessar aos dados, Listas aninhadas (matriz), fatiamento e compreensão de listas.|
+
+- Métodos
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*metodos_listas.py* | `append()`, `clear()`, `copy()`, `count()`, `extend()`, `index()`, `pop()`, `remove()`, `reverse()`, `sort()`, `len()`, `sorted()` -> função built-in.|
+
+## Atividade 07
+**Conhecendo Tuplas em Python**
+
+Armazenamento sequencial de qualquer tipo de objeto, porém imutável após a criação.
+
+- Criação e Acesso aos dados
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*estrutura_tuplas.py* | Exemplos de criação, como acessar aos dados, Tuplas aninhadas (matriz), fatiamento e iteração de Tuplas.|
+
+- Métodos
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*metodos_tuplas.py* | `count()`, `index()`, `len()`.|
+
+## Atividade 08
+**Explorando Conjuntos em Python**
+
+Coleção de objetos não duplicados (únicos).
+
+- Criação e acesso aos dados
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*estrutura_set.py* | Exemplos de criação, como acessar aos dados e iteração com o `set`.|
+
+- Métodos
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*metodos_set.py* | Operações matemáticas de conjuntos com o `set` entre outras.|
+
+## Atividade 09
+**Aprendendo a utilizar Dicionários em Python**
+
+Conjunto não-ordenado de pares chave:valor. As chaves são únicas.
+
+- Criação e acesso aos dados
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*estrutura_dic.py* | Exemplos de criação, como acessar aos dados e iteração com o `set`.|
+
+- Métodos
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*metodos_dic.py* | `clear()`, `copy()`, `fromkeys()`, `get()`, `items()`, `keys()`, `pop()`, `popitem()`, `setdefault()`, `update()`, `values()`, `in`-> função built-in, `del`-> função built-in.|

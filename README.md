@@ -1,6 +1,6 @@
 # thibastos0
 **Thiago Bastos** \
-DIO | Projeto Open Source no GitHub.
+DIO | Introdução ao Python.
 
 ---
 > Pequena é a parte da vida que vivemos, pois todo restante não é vida mas tempo.

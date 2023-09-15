@@ -187,3 +187,14 @@ Conjunto não-ordenado de pares chave:valor. As chaves são únicas.
 |Arquivo|Descrição|
 |:-----:|:-----|
 |*metodos_dic.py* | `clear()`, `copy()`, `fromkeys()`, `get()`, `items()`, `keys()`, `pop()`, `popitem()`, `setdefault()`, `update()`, `values()`, `in`-> função built-in, `del`-> função built-in.|
+
+## Atividade 10
+**Dominando funções Python**
+
+Um bloco de código identificado por um nome.Pode recer parâmetros  e retornar ou não valores. Programar baseado em funções é o mesmo que dizer que estamos programando de maneira estruturada.
+
+- Exemplos diversos
+
+|Arquivo|Descrição|
+|:-----:|:-----|
+|*funcao.py* | Declarando função (`def` -> palavra reservada) com e sem parâmetros; retornando valores; argumentos nomeados; `args` e `kwargs`; parâmetros especiais "/" e "*"; objetos de primeira classe; escopo local e global.|

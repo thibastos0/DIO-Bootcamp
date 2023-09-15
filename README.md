@@ -6,7 +6,8 @@ DIO | Introdução ao Python.
 > Pequena é a parte da vida que vivemos, pois todo restante não é vida mas tempo.
 \- Sêneca
 
-Acompanhamento das atividades e aulas realizadas -> [![aulas.md](https://img.shields.io/badge/aulas.md-8A2BE2)](https://github.com/thibastos0/DIO-Bootcamp-Introducao-Python/blob/d470fcd6f8bb017707c620aa0fe604ea37f21c35/aulas.md)
+Acompanhamento das atividades e aulas realizadas -> [![aulas.md](https://img.shields.io/badge/aulas.md-8A2BE2)](https://github.com/thibastos0/DIO-Bootcamp-Introducao-Python/blob/main/aulas.md)
+
 
 ## 😎🔗 Conecte-se comigo
 
